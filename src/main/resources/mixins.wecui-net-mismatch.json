@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.wecui-net-mismatch.refmap.json",
+    "package": "rmc.mixins.wecui_net_mismatch",
+    "mixins": [
+        "PacketHandlerUtilMixin"
+    ]
+}
